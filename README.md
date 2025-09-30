@@ -1,4 +1,6 @@
-# Code QOS
+# Code KOS
+
+Code Kwality of Service
 
 ## Description
 
